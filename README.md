@@ -141,6 +141,6 @@ Uber-Peak-Hours-Analysis/
 
 ## 📂 Data Provenance
 
-- **Data Source:** [Kaggle — Uber SQL Database](https://www.kaggle.com/datasets/rockyt07/uber-sql-database?select=schema.sql)
+- **Data Source:** [Kaggle](https://www.kaggle.com/datasets/rockyt07/uber-sql-database?select=schema.sql)
 - **Database:** MySQL
 - **Related Project:** [Uber Revenue Analysis](https://github.com/M-atere/Uber-Revenue-Analysis)
